@@ -1,0 +1,1 @@
+<%text>\n# minimal template\n</%text>\n
