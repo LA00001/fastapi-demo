@@ -11,7 +11,7 @@
 
 ## Запуск через Docker
 ```bash
-cp .env.example .env
+copy .env.example .env
 docker compose up --build
 ```
 Swagger: http://localhost:8000/docs
